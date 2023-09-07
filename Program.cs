@@ -31,6 +31,8 @@ namespace MoviesApp
             app.MapControllers();
 
             app.Run();
+
+            //make some changes
         }
     }
 }
